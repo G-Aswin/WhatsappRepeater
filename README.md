@@ -15,12 +15,12 @@ Installation/Walkthrough
    in your command prompt.
    
 3. Download the chromedriver for your respective chrome version.
-   *To check your chrome version, open chrome>threedots>Help>About Chrome
+   p.S : To check your chrome version, open chrome>threedots>Help>About Chrome
     website : https://chromedriver.chromium.org/downloads
     
     Extract the zip and paste the exe file into your "C:\Windows"
     
-4. Now, Download the included "whatsapp.py" file.
+4. Now, Download the ZIP file of this repo, extract it and copy the "whatsapp.py" file into your Downloads folder.
 
 5. Now, navigate to the folder you have downloaded the python file, HOLD shift and right click on an empty space and select OPEN POWERSHELL HERE or OPEN COMMAND WINDOW HERE
 
