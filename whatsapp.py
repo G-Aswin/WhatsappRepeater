@@ -19,4 +19,8 @@ for i in range(count):
     msg_box.send_keys(msg)
     button = driver.find_element_by_class_name('_35EW6')
     button.click()
+
+msg_box.send_keys("sorry for spamming you ;)")
+button = driver.find_element_by_class_name('_35EW6')
+button.click()
     
