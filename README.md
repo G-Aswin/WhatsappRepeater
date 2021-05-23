@@ -29,4 +29,4 @@ Installation/Walkthrough
 
 7. Scan the QR code from your mobile to activate whatsapp web BEFORE you type in the message details
 
-8. Enter the details precisely and HAPPY SPAMMING :)
+8. Enter the details. :)
